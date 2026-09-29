@@ -1,0 +1,378 @@
+[
+  {
+    "brand": "Ford",
+    "model": "Ranger Raptor",
+    "version": "Raptor 3.0 V6 EcoBoost",
+    "specifications": [
+      {
+        "categoryName": "Motorização e Desempenho",
+        "items": [
+          { "label": "Motor", "value": "3.0L V6 EcoBoost Bi-Turbo" },
+          { "label": "Potência", "value": "397 cv" },
+          { "label": "Torque", "value": "59,4 kgfm" },
+          { "label": "Transmissão", "value": "Automática de 10 marchas" },
+          { "label": "Tração", "value": "AWD com modos de condução (Baja, Sport, etc)" }
+        ]
+      },
+      {
+        "categoryName": "Dimensões e Capacidades",
+        "items": [
+          { "label": "Comprimento", "value": "5.381 mm" },
+          { "label": "Largura", "value": "2.028 mm" },
+          { "label": "Altura", "value": "1.922 mm" },
+          { "label": "Distância entre-eixos", "value": "3.270 mm" },
+          { "label": "Capacidade de carga", "value": "736 kg" },
+          { "label": "Capacidade de reboque", "value": "2.500 kg" }
+        ]
+      },
+      {
+        "categoryName": "Suspensão e Off-Road",
+        "items": [
+          { "label": "Suspensão Dianteira", "value": "Independente, braços sobrepostos, Fox Live Valve 2.5\"" },
+          { "label": "Suspensão Traseira", "value": "Watt's linkage, molas helicoidais, Fox Live Valve 2.5\"" },
+          { "label": "Ângulo de entrada", "value": "32°" },
+          { "label": "Ângulo de saída", "value": "24°" },
+          { "label": "Vão livre do solo", "value": "272 mm" }
+        ]
+      },
+      {
+        "categoryName": "Tecnologia e Segurança",
+        "items": [
+          { "label": "Painel de Instrumentos", "value": "Digital de 12.4 polegadas" },
+          { "label": "Multimídia", "value": "SYNC 4 tela de 12 polegadas" },
+          { "label": "Segurança", "value": "7 airbags, Frenagem autônoma, Piloto Automático Adaptativo" },
+          { "label": "Câmeras", "value": "Sistema 360 graus com visão off-road" }
+        ]
+      }
+    ]
+  },
+  {
+    "brand": "Toyota",
+    "model": "Hilux",
+    "version": "GR-Sport 2.8 Diesel",
+    "specifications": [
+      {
+        "categoryName": "Motorização e Desempenho",
+        "items": [
+          { "label": "Motor", "value": "2.8L 16V Turbo Diesel" },
+          { "label": "Potência", "value": "224 cv" },
+          { "label": "Torque", "value": "55,0 kgfm" },
+          { "label": "Transmissão", "value": "Automática de 6 marchas" },
+          { "label": "Tração", "value": "4x4 com reduzida" }
+        ]
+      },
+      {
+        "categoryName": "Dimensões e Capacidades",
+        "items": [
+          { "label": "Comprimento", "value": "5.325 mm" },
+          { "label": "Largura", "value": "2.020 mm" },
+          { "label": "Altura", "value": "1.830 mm" },
+          { "label": "Distância entre-eixos", "value": "3.085 mm" },
+          { "label": "Capacidade de carga", "value": "1.000 kg" },
+          { "label": "Capacidade de reboque", "value": "3.500 kg" }
+        ]
+      },
+      {
+        "categoryName": "Suspensão e Off-Road",
+        "items": [
+          { "label": "Suspensão Dianteira", "value": "Independente, braços duplos com amortecedores monotubo KYB" },
+          { "label": "Suspensão Traseira", "value": "Eixo rígido com feixe de molas semicilíndricas" },
+          { "label": "Ângulo de entrada", "value": "30°" },
+          { "label": "Ângulo de saída", "value": "26°" },
+          { "label": "Vão livre do solo", "value": "323 mm" }
+        ]
+      },
+      {
+        "categoryName": "Tecnologia e Segurança",
+        "items": [
+          { "label": "Painel de Instrumentos", "value": "Analógico com TFT central de 4.2 polegadas" },
+          { "label": "Multimídia", "value": "Tela touch de 9 polegadas com Android Auto/CarPlay cabo" },
+          { "label": "Segurança", "value": "7 airbags, Alerta de mudança de faixa, Frenagem pré-colisão" },
+          { "label": "Câmeras", "value": "vazio / não disponível" }
+        ]
+      }
+    ]
+  },
+  {
+    "brand": "Volkswagen",
+    "model": "Amarok",
+    "version": "Extreme 3.0 V6",
+    "specifications": [
+      {
+        "categoryName": "Motorização e Desempenho",
+        "items": [
+          { "label": "Motor", "value": "3.0L V6 Turbo Diesel" },
+          { "label": "Potência", "value": "258 cv" },
+          { "label": "Torque", "value": "59,1 kgfm" },
+          { "label": "Transmissão", "value": "Automática de 8 marchas" },
+          { "label": "Tração", "value": "4Motion permanente" }
+        ]
+      },
+      {
+        "categoryName": "Dimensões e Capacidades",
+        "items": [
+          { "label": "Comprimento", "value": "5.350 mm" },
+          { "label": "Largura", "value": "1.954 mm" },
+          { "label": "Altura", "value": "1.834 mm" },
+          { "label": "Distância entre-eixos", "value": "3.097 mm" },
+          { "label": "Capacidade de carga", "value": "1.156 kg" },
+          { "label": "Capacidade de reboque", "value": "2.710 kg" }
+        ]
+      },
+      {
+        "categoryName": "Suspensão e Off-Road",
+        "items": [
+          { "label": "Suspensão Dianteira", "value": "Independente, braços sobrepostos" },
+          { "label": "Suspensão Traseira", "value": "Eixo rígido com feixe de molas" },
+          { "label": "Ângulo de entrada", "value": "24°" },
+          { "label": "Ângulo de saída", "value": "16°" },
+          { "label": "Vão livre do solo", "value": "220 mm" }
+        ]
+      },
+      {
+        "categoryName": "Tecnologia e Segurança",
+        "items": [
+          { "label": "Painel de Instrumentos", "value": "vazio / não disponível" },
+          { "label": "Multimídia", "value": "vazio / não disponível" },
+          { "label": "Segurança", "value": "6 airbags, Frenagem pós-colisão, sem ACC" },
+          { "label": "Câmeras", "value": "Câmera de ré simples" }
+        ]
+      }
+    ]
+  },
+  {
+    "brand": "Chevrolet",
+    "model": "S10",
+    "version": "High Country 2.8 Diesel",
+    "specifications": [
+      {
+        "categoryName": "Motorização e Desempenho",
+        "items": [
+          { "label": "Motor", "value": "2.8L Turbo Diesel" },
+          { "label": "Potência", "value": "200 cv" },
+          { "label": "Torque", "value": "51,0 kgfm" },
+          { "label": "Transmissão", "value": "Automática de 6 marchas" },
+          { "label": "Tração", "value": "4x4 com seletor eletrônico e reduzida" }
+        ]
+      },
+      {
+        "categoryName": "Dimensões e Capacidades",
+        "items": [
+          { "label": "Comprimento", "value": "5.361 mm" },
+          { "label": "Largura", "value": "1.874 mm" },
+          { "label": "Altura", "value": "1.831 mm" },
+          { "label": "Distância entre-eixos", "value": "3.096 mm" },
+          { "label": "Capacidade de carga", "value": "1.049 kg" },
+          { "label": "Capacidade de reboque", "value": "3.500 kg" }
+        ]
+      },
+      {
+        "categoryName": "Suspensão e Off-Road",
+        "items": [
+          { "label": "Suspensão Dianteira", "value": "Independente, braços articulados e molas helicoidais" },
+          { "label": "Suspensão Traseira", "value": "Eixo rígido com feixe de molas" },
+          { "label": "Ângulo de entrada", "value": "29°" },
+          { "label": "Ângulo de saída", "value": "18°" },
+          { "label": "Vão livre do solo", "value": "228 mm" }
+        ]
+      },
+      {
+        "categoryName": "Tecnologia e Segurança",
+        "items": [
+          { "label": "Painel de Instrumentos", "value": "Analógico com tela central" },
+          { "label": "Multimídia", "value": "MyLink de 8 polegadas com espelhamento sem fio" },
+          { "label": "Segurança", "value": "6 airbags, Alerta de colisão frontal e saída de faixa" },
+          { "label": "Câmeras", "value": "Câmera de ré" }
+        ]
+      }
+    ]
+  },
+  {
+    "brand": "Nissan",
+    "model": "Frontier",
+    "version": "PRO-4X 2.3 Bi-Turbo",
+    "specifications": [
+      {
+        "categoryName": "Motorização e Desempenho",
+        "items": [
+          { "label": "Motor", "value": "2.3L Bi-Turbo Diesel" },
+          { "label": "Potência", "value": "190 cv" },
+          { "label": "Torque", "value": "45,9 kgfm" },
+          { "label": "Transmissão", "value": "Automática de 7 marchas" },
+          { "label": "Tração", "value": "4x4 shift-on-the-fly" }
+        ]
+      },
+      {
+        "categoryName": "Dimensões e Capacidades",
+        "items": [
+          { "label": "Comprimento", "value": "5.260 mm" },
+          { "label": "Largura", "value": "1.850 mm" },
+          { "label": "Altura", "value": "1.860 mm" },
+          { "label": "Distância entre-eixos", "value": "3.150 mm" },
+          { "label": "Capacidade de carga", "value": "1.043 kg" },
+          { "label": "Capacidade de reboque", "value": "2.750 kg" }
+        ]
+      },
+      {
+        "categoryName": "Suspensão e Off-Road",
+        "items": [
+          { "label": "Suspensão Dianteira", "value": "Independente, braços duplos" },
+          { "label": "Suspensão Traseira", "value": "Multilink com molas helicoidais" },
+          { "label": "Ângulo de entrada", "value": "31.6°" },
+          { "label": "Ângulo de saída", "value": "27.2°" },
+          { "label": "Vão livre do solo", "value": "252 mm" }
+        ]
+      },
+      {
+        "categoryName": "Tecnologia e Segurança",
+        "items": [
+          { "label": "Painel de Instrumentos", "value": "TFT colorido de 7 polegadas" },
+          { "label": "Multimídia", "value": "A-IVI de 8 polegadas" },
+          { "label": "Segurança", "value": "6 airbags, Nissan Intelligent Safety Shield" },
+          { "label": "Câmeras", "value": "Visão 360 inteligente" }
+        ]
+      }
+    ]
+  },
+  {
+    "brand": "Mitsubishi",
+    "model": "L200 Triton",
+    "version": "Sport HPE-S 2.4 Diesel",
+    "specifications": [
+      {
+        "categoryName": "Motorização e Desempenho",
+        "items": [
+          { "label": "Motor", "value": "2.4L MIVEC Turbo Diesel Super Silence" },
+          { "label": "Potência", "value": "190 cv" },
+          { "label": "Torque", "value": "43,9 kgfm" },
+          { "label": "Transmissão", "value": "Automática de 6 marchas" },
+          { "label": "Tração", "value": "Super Select II (AWD/4x4/Reduzida)" }
+        ]
+      },
+      {
+        "categoryName": "Dimensões e Capacidades",
+        "items": [
+          { "label": "Comprimento", "value": "5.300 mm" },
+          { "label": "Largura", "value": "1.820 mm" },
+          { "label": "Altura", "value": "1.795 mm" },
+          { "label": "Distância entre-eixos", "value": "3.000 mm" },
+          { "label": "Capacidade de carga", "value": "1.000 kg" },
+          { "label": "Capacidade de reboque", "value": "2.300 kg" }
+        ]
+      },
+      {
+        "categoryName": "Suspensão e Off-Road",
+        "items": [
+          { "label": "Suspensão Dianteira", "value": "Independente, braços triangulares duplos" },
+          { "label": "Suspensão Traseira", "value": "Eixo rígido com feixe de molas semi-elípticas" },
+          { "label": "Ângulo de entrada", "value": "32°" },
+          { "label": "Ângulo de saída", "value": "23°" },
+          { "label": "Vão livre do solo", "value": "220 mm" }
+        ]
+      },
+      {
+        "categoryName": "Tecnologia e Segurança",
+        "items": [
+          { "label": "Painel de Instrumentos", "value": "Analógico clássico" },
+          { "label": "Multimídia", "value": "Tela touch de 7 polegadas" },
+          { "label": "Segurança", "value": "7 airbags, Frenagem autônoma de emergência" },
+          { "label": "Câmeras", "value": "vazio / não disponível" }
+        ]
+      }
+    ]
+  },
+  {
+    "brand": "Ford",
+    "model": "F-150",
+    "version": "Lariat 5.0 V8",
+    "specifications": [
+      {
+        "categoryName": "Motorização e Desempenho",
+        "items": [
+          { "label": "Motor", "value": "5.0L V8 Coyote" },
+          { "label": "Potência", "value": "405 cv" },
+          { "label": "Torque", "value": "56,7 kgfm" },
+          { "label": "Transmissão", "value": "Automática de 10 marchas" },
+          { "label": "Tração", "value": "4x4 com seleção eletrônica e sob demanda" }
+        ]
+      },
+      {
+        "categoryName": "Dimensões e Capacidades",
+        "items": [
+          { "label": "Comprimento", "value": "5.884 mm" },
+          { "label": "Largura", "value": "2.089 mm" },
+          { "label": "Altura", "value": "1.962 mm" },
+          { "label": "Distância entre-eixos", "value": "3.694 mm" },
+          { "label": "Capacidade de carga", "value": "728 kg" },
+          { "label": "Capacidade de reboque", "value": "3.492 kg" }
+        ]
+      },
+      {
+        "categoryName": "Suspensão e Off-Road",
+        "items": [
+          { "label": "Suspensão Dianteira", "value": "Independente, braços sobrepostos" },
+          { "label": "Suspensão Traseira", "value": "Eixo rígido com feixe de molas" },
+          { "label": "Ângulo de entrada", "value": "24.3°" },
+          { "label": "Ângulo de saída", "value": "25.3°" },
+          { "label": "Vão livre do solo", "value": "238 mm" }
+        ]
+      },
+      {
+        "categoryName": "Tecnologia e Segurança",
+        "items": [
+          { "label": "Painel de Instrumentos", "value": "Digital de 12 polegadas" },
+          { "label": "Multimídia", "value": "SYNC 4 de 12 polegadas" },
+          { "label": "Segurança", "value": "8 airbags, Ford Co-Pilot 360" },
+          { "label": "Câmeras", "value": "Câmera 360 graus com assistência de reboque" }
+        ]
+      }
+    ]
+  },
+  {
+    "brand": "RAM",
+    "model": "1500",
+    "version": "Rebel 5.7 V8 HEMI",
+    "specifications": [
+      {
+        "categoryName": "Motorização e Desempenho",
+        "items": [
+          { "label": "Motor", "value": "5.7L V8 HEMI" },
+          { "label": "Potência", "value": "400 cv" },
+          { "label": "Torque", "value": "56,7 kgfm" },
+          { "label": "Transmissão", "value": "Automática TorqueFlite de 8 marchas" },
+          { "label": "Tração", "value": "4x4 Part Time com bloqueio de diferencial" }
+        ]
+      },
+      {
+        "categoryName": "Dimensões e Capacidades",
+        "items": [
+          { "label": "Comprimento", "value": "5.929 mm" },
+          { "label": "Largura", "value": "2.084 mm" },
+          { "label": "Altura", "value": "2.012 mm" },
+          { "label": "Distância entre-eixos", "value": "3.672 mm" },
+          { "label": "Capacidade de carga", "value": "610 kg" },
+          { "label": "Capacidade de reboque", "value": "5.062 kg" }
+        ]
+      },
+      {
+        "categoryName": "Suspensão e Off-Road",
+        "items": [
+          { "label": "Suspensão Dianteira", "value": "Independente, braços curtos/longos, barra estabilizadora" },
+          { "label": "Suspensão Traseira", "value": "Multilink com molas helicoidais" },
+          { "label": "Ângulo de entrada", "value": "23.3°" },
+          { "label": "Ângulo de saída", "value": "27.2°" },
+          { "label": "Vão livre do solo", "value": "249 mm" }
+        ]
+      },
+      {
+        "categoryName": "Tecnologia e Segurança",
+        "items": [
+          { "label": "Painel de Instrumentos", "value": "TFT colorido de 12 polegadas" },
+          { "label": "Multimídia", "value": "Uconnect 5 de 12 polegadas" },
+          { "label": "Segurança", "value": "6 airbags, Park Assist Avançado, Controle Adaptativo" },
+          { "label": "Câmeras", "value": "Câmera 360 e espelho retrovisor digital" }
+        ]
+      }
+    ]
+  }
+]
